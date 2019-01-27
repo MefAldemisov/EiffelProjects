@@ -1,0 +1,6 @@
+Launching system :
+  - directory = `/home/alina/Documents/Inno/ITP/connect_four`
+System is running
+Application launched
+Application is running
+Application exited
